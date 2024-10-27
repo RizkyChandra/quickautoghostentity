@@ -1,0 +1,14 @@
+{
+  "name": "quickautoghostentity",
+  "title": "Quick Auto Ghost Entity Build",
+  "description": "This mod help you to place entity for ghost entities if you have the item",
+  "version": "1.0.0",
+  "author": "Yoshirakou",
+  "factorio_version": "2.0",
+  "control_input": {
+    "name": "quickghostentity-trigger",
+    "type": "custom-input",
+    "key_sequence": "CONTROL + B"
+  },
+  "dependencies": []
+}
